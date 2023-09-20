@@ -1,0 +1,3 @@
+../Core/Src/display.c:4:6:Display_i	32	static
+../Core/Src/display.c:14:6:Reproduce_display	16	static
+../Core/Src/display.c:18:6:Display_Off	4	static

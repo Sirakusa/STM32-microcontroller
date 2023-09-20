@@ -1,0 +1,2 @@
+../Core/Src/lavador.c:4:6:selector_Init	32	static
+../Core/Src/lavador.c:18:17:selector_Read	16	static

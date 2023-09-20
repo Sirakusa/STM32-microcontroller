@@ -1,0 +1,3 @@
+../Core/Src/keypad.c:4:6:Keypad_Init_PULLUP	1
+../Core/Src/keypad.c:15:6:Keypad_Init_OUT	1
+../Core/Src/keypad.c:26:10:Keypad_Scan	9

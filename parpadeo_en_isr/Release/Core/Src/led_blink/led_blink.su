@@ -1,0 +1,2 @@
+../Core/Src/led_blink/led_blink.c:7:6:HAL_IncTick	16	static
+../Core/Src/led_blink/led_blink.c:36:6:Init_Blink_Led	0	static

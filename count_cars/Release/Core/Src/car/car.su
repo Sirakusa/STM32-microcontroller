@@ -1,0 +1,4 @@
+../Core/Src/car/car.c:6:6:car_Init	32	static
+../Core/Src/car/car.c:21:6:cars_IncrementCount	0	static
+../Core/Src/car/car.c:26:10:get_CarsCout	0	static
+../Core/Src/car/car.c:30:6:HAL_GPIO_EXTI_Callback	0	static

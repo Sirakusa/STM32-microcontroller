@@ -1,0 +1,2 @@
+../Core/Src/Third_Party/led.c:4:6:Led_On	0	static
+../Core/Src/Third_Party/led.c:8:6:Led_Off	0	static

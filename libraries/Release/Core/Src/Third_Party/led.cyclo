@@ -1,0 +1,2 @@
+../Core/Src/Third_Party/led.c:4:6:Led_On	1
+../Core/Src/Third_Party/led.c:8:6:Led_Off	1
